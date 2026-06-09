@@ -36,6 +36,7 @@ dependencies:
   sqflite_common_ffi: ^2.3.3  # للـ Desktop (Windows/Linux/Mac)
   path: ^1.9.0
   sembast: ^3.7.2
+  sembast_sqflite: ^2.2.1
   sembast_web: ^2.4.0
   path_provider: ^2.1.2
   crypto: ^3.0.3

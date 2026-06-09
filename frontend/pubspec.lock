@@ -264,6 +264,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.8.5+2"
+  sembast_sqflite:
+    dependency: "direct main"
+    description:
+      name: sembast_sqflite
+      sha256: "38ffa967af36d6867d087ec82c37b70b55707b2cd533157e8a32d15aa66e40d2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.1"
   sembast_web:
     dependency: "direct main"
     description:
